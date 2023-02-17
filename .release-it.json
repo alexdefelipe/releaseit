@@ -3,6 +3,6 @@
     "publish": false
   },
   "git": {
-	  "requireUpstream": false
+	  "pushArgs": ["--follow-tags -u origin master:main"],
   }
 }
