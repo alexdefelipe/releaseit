@@ -3,6 +3,6 @@
     "publish": false
   },
   "git": {
-	  "pushArgs": ["--follow-tags -u origin master:main"],
+	  "pushArgs": ["--follow-tags -u origin master:main"]
   }
 }
