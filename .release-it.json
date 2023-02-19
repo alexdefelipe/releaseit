@@ -1,8 +1,0 @@
-{
-  "npm": {
-    "publish": false
-  },
-  "git": {
-	  "pushArgs": ["-u origin master:main --follow-tags"]
-  }
-}
